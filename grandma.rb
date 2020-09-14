@@ -1,3 +1,4 @@
+speak_to_grandma = "I love you grandma!".upcase
 
 if speak_to_grandma == "I love you grandma!".upcase
   puts "I love you too pumpkin!".upcase
@@ -8,5 +9,3 @@ elseif speak_to_grandma == "Hi!"
 else
   puts "No, Not Since 1938!".upcase
 end
-
-speak_to_grandma = "Hi!"
