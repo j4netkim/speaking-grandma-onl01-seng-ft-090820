@@ -1,6 +1,6 @@
 speak_to_grandma = "I love you grandma!".upcase
 
-if speak_to_grandma == "Hi".upcase
+if speak_to_grandma == "I love you grandma!".upcase
   puts "Huh?! Speak Up, Sonny!".upcase
 elsif speak_to_grandma == "Hi Nana, how are you?"
   puts "Huh?! Speak Up, Sonny!".upcase
