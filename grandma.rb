@@ -7,3 +7,5 @@ end
   else
     puts "no, not since 1938!".upcase
 end
+
+speak_to_grandma("I LOVE YOU GRANDMA!")
