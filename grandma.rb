@@ -8,3 +8,5 @@ elseif speak_to_grandma == "Hi!"
 else
   puts "No, Not Since 1938!".upcase
 end
+
+speak_to_grandma = "Hi!"
