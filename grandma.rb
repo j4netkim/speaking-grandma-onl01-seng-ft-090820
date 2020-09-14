@@ -1,2 +1,2 @@
 def speak_to_grandma(phrase)
-  if phrase != phrase.uppercase
+  if phrase != phrase.upcase 
