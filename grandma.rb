@@ -1,4 +1,4 @@
-speak_to_grandma = "I love you grandma!".upcase
+speak_to_grandma = "Hi Nana, how are you?"
 
 if speak_to_grandma == "Hi Nana, how are you?"
   puts "Huh?! speak up, sonny!".upcase
